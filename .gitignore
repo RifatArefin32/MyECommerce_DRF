@@ -1,0 +1,28 @@
+# Python files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# Django stuff
+db.sqlite3
+/media/
+staticfiles/
+
+# Virtual environment
+env/
+
+# Logs
+*.log
+
+# IDE and OS-specific files
+.DS_Store
+.idea/
+.vscode/
+.ipynb_checkpoints/
+
+# Node packages
+node_modules/
