@@ -45,3 +45,11 @@ DATABASES = {
 ```bash
 pip install psycopg2-binary
 ```
+- Run migration
+```bash
+python3 manage.py migrate
+```
+- Create admin as super user
+```bash
+python3 manage.py createsuperuser
+```
